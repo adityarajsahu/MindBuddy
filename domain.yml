@@ -40,6 +40,45 @@ responses:
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
 
+  utter_mental_health:
+  - text: "Mental health refers to the overall well-being of an individual's emotional, psychological, and social state."
+
+  utter_anxiety_signs:
+  - text: "Common signs of anxiety may include restlessness, excessive worry, difficulty concentrating, and physical symptoms like rapid heartbeat or sweating."
+
+  utter_cure_depression:
+  - text: "You can support your friend by actively listening, offering empathy, encouraging them to seek professional help, and being there for them without judgment."
+
+  utter_mindfulness:
+  - text: "Mindfulness is the practice of being fully present in the moment. It can benefit mental health by reducing stress, improving focus, and promoting emotional regulation."
+
+  utter_mood_swings:
+  - text: "Yes, occasional mood swings are a normal part of life. However, if mood swings become severe or frequent, it may be worth seeking professional advice."
+
+  utter_sleep:
+  - text: "To improve sleep, try maintaining a consistent sleep schedule, creating a relaxing bedtime routine, avoiding screens before bed, and keeping your sleep environment comfortable and quiet."
+
+  utter_seek_therapy:
+  - text: "You may consider seeking therapy or counseling if you are struggling to cope with daily life, experiencing persistent distress, or finding it challenging to manage your emotions."
+
+  utter_exercise:
+  - text: "Yes, regular exercise can positively impact mental health by reducing stress, improving mood, and boosting self-esteem."
+
+  utter_self_care:
+  - text: "Engaging in activities like journaling, spending time in nature, practicing hobbies, and connecting with loved ones can be beneficial for mental health."
+
+  utter_reduce_stigma:
+  - text: "You can reduce stigma by educating yourself and others about mental health, speaking openly about your own experiences, and treating individuals with mental health conditions with respect and compassion."
+
+  utter_lower_stress:
+  - text: "To reduce stress: practice deep breathing, exercise regularly, prioritize sleep, set boundaries, seek social support, and engage in hobbies. Limit caffeine and alcohol, manage time effectively, laugh, spend time in nature, and seek professional help if needed."
+
+  utter_eat_healthy:
+  - text: "To stay healthy, maintain a balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats. Limit processed foods, sugary snacks, and excessive salt. Stay hydrated, practice portion control, and consult a nutritionist if needed."
+
+  utter_exercise_amount:
+  - text: "To stay healthy, aim for at least 150 minutes of moderate-intensity aerobic exercise or 75 minutes of vigorous-intensity exercise per week. Incorporate strength training exercises for major muscle groups at least twice a week. Remember to consult a healthcare professional before starting any new exercise routine, especially if you have health concerns."
+
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
