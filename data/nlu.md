@@ -65,49 +65,49 @@
 - How do I know if I am suffering from anxiety?
 - What are the common symptoms of anxiety?
 
-## intent:cure_depression
+## intent:ask_cure_depression
 - How to support someone struggling with depression?
 - How to help someone suffering from depression?
 - Tell me ways to counter depression.
 - How to avoid staying depressed?
 
-## intent:mindfulness
+## intent:ask_mindfulness
 - What is mindfulness?
 - How would you describe mindfulness?
 - Help me understand about mindfulness.
 - Tell me something about mindfulness.
 
-## intent:mood_swings
+## intent:ask_mood_swings
 - Is it normal to experience occasional mood swings?
 - Is having severe mood swings considered abnormal?
 - How do mood swings affect mental health?
 - What is your opinion on mood swings?
 
-## intent:sleep
+## intent:ask_sleep
 - Give me some tips for improving sleep.
 - How can I improve my sleep for better mental health?
 - My sleep cycle is messed up, how do I fix it?
 - I am not getting proper sleep, what shall I do?
 
-## intent:seek_therapy
+## intent:ask_seek_therapy
 - When should I consider seeking therapy or counseling?
 - How do I know if I need therapy?
 - How do I know if I need counseling?
 - When shall I consider going for some therapy?
 - When shall I consider going for some counseling?
 
-## intent:exercise
+## intent:ask_exercise
 - Can exercise help with mental health?
 - Does exercise improve mental health?
 - What is the effect of exercise on mental health?
 - Will regular exerice improve mental health?
 
-## intent:self_care
+## intent:ask_self_care
 - What are some self-care activities that can benefit mental health?
 - Suggest me some self-care activities that can improve mental health.
 - Tell me about some self-care activities that can improve mental health.
 
-## intent:reduce_stigma
+## intent:ask_reduce_stigma
 - How can I reduce stigma around mental health?
 - How to reduce stigma around mental health?
 - Suggest me ways to reduce stigma around mental health.
