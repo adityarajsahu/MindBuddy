@@ -6,6 +6,19 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - ask_mental_health
+  - ask_anxiety_signs
+  - ask_cure_depression
+  - ask_mindfulness
+  - ask_mood_swings
+  - ask_sleep
+  - ask_seek_therapy
+  - ask_exercise
+  - ask_self_care
+  - ask_reduce_stigma
+  - ask_lower_stress
+  - ask_eat_healthy
+  - ask_exercise_amount
 
 responses:
   utter_greet:
